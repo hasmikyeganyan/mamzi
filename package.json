@@ -1,0 +1,27 @@
+{
+  "name": "mamzi",
+  "version": "1.0.0",
+  "description": "Practice Project ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "start1": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasmikyeganyan/mamzi.git"
+  },
+  "author": "Hasmik Yeganyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasmikyeganyan/mamzi/issues"
+  },
+  "homepage": "https://github.com/hasmikyeganyan/mamzi#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node": "^19.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
